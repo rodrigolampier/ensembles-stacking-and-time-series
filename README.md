@@ -1,2 +1,2 @@
 # ensembles-stacking-and-time-series
-O Stacking é uma maneira de fazer o ensemble na qual usamos modelos para fazer previsões, e depois usamos estas previsões como features em novos modelos, no que pode ser chamado de "segundo nível". Você pode fazer este processo várias vezes, mas a cada nível o retorno em performance com relação à computação necessária é menor.
+No Stacking utilizamos vários modelos (ensembles), geralmente de tipos diferentes, para realizar as previsões em cima dos dados e depois usamos essas previsões como features em novos modelos, no que pode ser chamado de "segundo nível". Podemos fazer este processo várias vezes, mas a cada nível o retorno em performance com relação à computação necessária é menor.
